@@ -1,0 +1,72 @@
+.blue {
+    background-color: rgb(0, 47, 255);
+
+}
+
+.green {
+    background-color: rgb(38, 255, 0);
+
+}
+.yellow {
+    background-color: yellow;
+
+}
+.gray {
+    background-color: gray;
+
+}
+.pink {
+    background-color: pink;
+
+}
+.aqua {
+    background-color: aqua;
+
+}
+.orange {
+    background-color: rgb(255, 145, 0);
+
+}
+.white {
+    background-color: rgb(255, 255, 255);
+
+}
+.red {
+    background-color: rgb(255, 0, 0);
+
+}
+td {
+    height: 15px;
+    width: 15px;
+}
+
+#text {
+    height: 55px;
+    width: 75px;
+    border: solid black;
+    font-size: 14px;
+   
+}
+body {
+    justify-content:space-between;
+    display:flex;
+    background-color: bisque;
+}
+
+.batton{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    height: 55px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+batton{
+    height: 15px;
+    border: solid black;
+    text-align: center;
+    background-color: blanchedalmond;
+    cursor: pointer;
+    border-radius: 3px;
+    
+}
