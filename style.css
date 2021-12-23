@@ -36,13 +36,13 @@
 
 }
 td {
-    height: 15px;
-    width: 15px;
+    height: 115px;
+    width: 115px;
 }
 
 #text {
-    height: 55px;
-    width: 75px;
+    height: 350px;
+    width: 375px;
     border: solid black;
     font-size: 14px;
    
@@ -57,12 +57,12 @@ body {
     display:flex;
     flex-direction: column;
     justify-content:space-between;
-    height: 55px;
-    font-size: 15px;
-    margin-top: 10px;
+    height: 155px;
+    font-size: 35px;
+    
 }
 batton{
-    height: 15px;
+    height: 115px;
     border: solid black;
     text-align: center;
     background-color: blanchedalmond;
